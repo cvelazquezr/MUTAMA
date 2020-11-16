@@ -1,0 +1,9 @@
+# Files
+.scalafmt.conf
+
+# Folders
+.vscode/
+.bloop/
+.DS_Store
+.metals/
+target/
